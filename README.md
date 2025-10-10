@@ -1,7 +1,7 @@
 # OGecgo
 
 #### Itch.io Two-Week Game Jam Team Project
-- Game [The_Last_Chant](https://jamfraoula.itch.io/the-last-chant) - [documentation](https://docs.google.com/document/d/1y_3-eksbt2l0-xXH-fWGAO2K-almuhDzZVk8fQng6AM/edit?tab=t.0) (C# Godot)
+- Game [The_Last_Chant](https://jamfraoula.itch.io/the-last-chant) - [documentation](https://docs.google.com/document/d/1y_3-eksbt2l0-xXH-fWGAO2K-almuhDzZVk8fQng6AM/edit?tab=t.0) (C# .NET Godot)
 
 #### AMD Challenge Project (3D Software Renderer with FPGA Hardware Acceleration on Zynq-7000)
 - Project [ZyboZ7_10_Renderer](https://github.com/OGecgo/ZyboZ7_10_Renderer) - [Youtube Demo](https://www.youtube.com/watch?v=xsQ5klnrDiM) (C C++ Verilog)
@@ -13,6 +13,7 @@
 - Explore Simple Optimizations MIPS [QtMips-Project](https://github.com/OGecgo/QtMips-Project) (Assembly MIPS32)
 - Frontend [TentPal](https://github.com/OGecgo/TentPal) (React.js CSS)
 - Web Application [webProgramming](https://github.com/dimitry-lzs/webProgramming) (Java)
+- One Of My First Projects On GitHub [Windows_Forms_Chess](https://github.com/OGecgo/Windows_Forms_Chess) (C# .NET Forms) 
 
 ---
 
