@@ -1,22 +1,27 @@
 # OGecgo
 
-## Projects
+#### Itch.io Two-Week Game Jam Team Project
+- Game [The_Last_Chant](https://jamfraoula.itch.io/the-last-chant) - [documentation](https://docs.google.com/document/d/1y_3-eksbt2l0-xXH-fWGAO2K-almuhDzZVk8fQng6AM/edit?tab=t.0) (C# Godot)
 
-#### Itch.io Chanlenge Game
-- [The_Last_Chant](https://jamfraoula.itch.io/the-last-chant)
-- [documentation](https://docs.google.com/document/d/1y_3-eksbt2l0-xXH-fWGAO2K-almuhDzZVk8fQng6AM/edit?tab=t.0)
+#### AMD Challenge Project (3D Software Renderer with FPGA Hardware Acceleration on Zynq-7000)
+- Project [ZyboZ7_10_Renderer](https://github.com/OGecgo/ZyboZ7_10_Renderer) - [Youtube Demo](https://www.youtube.com/watch?v=xsQ5klnrDiM) (C C++ Verilog)
 
-#### AMD Chalenge Project
-- [ZyboZ7_10_Renderer](https://github.com/OGecgo/ZyboZ7_10_Renderer)
-- [Youtube Demo](https://www.youtube.com/watch?v=xsQ5klnrDiM)
+---
 
 ### University Projects
-- Hiden Markov Model Profile [Bioinformatics](https://github.com/OGecgo/Bioinformatics)
-- Assembly Mips [QtMips-Project](https://github.com/OGecgo/QtMips-Project)
-- Frontend [TentPal](https://github.com/OGecgo/TentPal) 
-- Web Aplication [webProgramming](https://github.com/dimitry-lzs/webProgramming)     
+- Hidden Markov Model Profile [Bioinformatics](https://github.com/OGecgo/Bioinformatics) (Python)
+- Explore Simple Optimizations MIPS [QtMips-Project](https://github.com/OGecgo/QtMips-Project) (Assembly MIPS32)
+- Frontend [TentPal](https://github.com/OGecgo/TentPal) (React.js CSS)
+- Web Application [webProgramming](https://github.com/dimitry-lzs/webProgramming) (Java)
 
-**ASCII Cuber render** [myFirstCube](https://github.com/OGecgo/myFirstCube)
+---
+
+### Personal Projects
+- ASCII Cuber Render [myFirstCube](https://github.com/OGecgo/myFirstCube) (C)
+
+
+
+
 
 <!--
 **OGecgo/OGecgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
