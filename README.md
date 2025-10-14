@@ -20,6 +20,11 @@
 ### Personal Projects
 - ASCII Cuber Render [myFirstCube](https://github.com/OGecgo/myFirstCube) (C)
 
+---
+
+#### Other Platforms
+- CodeWars [OGecgo](https://www.codewars.com/users/OGecgo)
+- CryptoHack [OGecko](https://cryptohack.org/user/OGecko/)
 
 
 
