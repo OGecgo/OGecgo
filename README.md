@@ -9,6 +9,7 @@
 ---
 
 ### University Projects
+- Conway Game Of Life with GPU acceleration [ConwayGameOfLife_GPU_Acceleration](https://github.com/OGecgo/ConwayGameOfLife_GPU_Acceleration)
 - Hidden Markov Model Profile [Bioinformatics](https://github.com/OGecgo/Bioinformatics) (Python)
 - Explore Simple Optimizations MIPS [QtMips-Project](https://github.com/OGecgo/QtMips-Project) (Assembly MIPS32)
 - Frontend [TentPal](https://github.com/OGecgo/TentPal) (React.js CSS)
