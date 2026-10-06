@@ -16,8 +16,7 @@
 - Frontend [TentPal](https://github.com/OGecgo/TentPal) (React.js CSS)
 - Web Application [webProgramming](https://github.com/dimitry-lzs/webProgramming) (Java)
 - One Of My First Projects On GitHub [Windows_Forms_Chess](https://github.com/OGecgo/Windows_Forms_Chess) (C# .NET Forms)
-- Unity game [TheCatCult](https://...) (C# Unity) <-- for new is private
-
+- Unity game [TheCatCult](https://github.com/OGecgo/TheCatCult) (C# Unity)
 ---
 
 ### Personal Projects
